@@ -10,11 +10,11 @@ pip install -r requirements.txt
 
 Create an env file based on `.env.example` and add the necessary values to each variable i.e the nanos api url and stripe secret key
 
-## Task
+## Scripts
 
-Task One is contained in `taskOne.py` file
+First Script is contained in `taskOne.py` file
 
-Task Two is contained in `taskTwo.py` file
+Second Script is contained in `taskTwo.py` file
 
-## Created By Paul Adokiye Iruene for Nanos Developer Test
+## Created By Paul Adokiye Iruene
 [Paul Adokiye Iruene](https://adokiyeiruene.com)
